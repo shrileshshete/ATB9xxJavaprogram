@@ -1,6 +1,6 @@
 package Oct.ex_16102024;
 
-public class Lab021 {
+public class Lab021inputthrough_args_console {
     public static void main(String[] args) {
         // Taking Input - Arguments (In console)
 
