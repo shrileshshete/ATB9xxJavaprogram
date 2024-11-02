@@ -1,6 +1,6 @@
 package Oct.ex_15102024;
 
-public class Lab015 {
+public class Lab015_printf {
     public static void main(String[] args) {
         int A= 14;
         int B = 10;

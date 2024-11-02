@@ -7,7 +7,7 @@ public class Lab037 {
         //built in function are math.max,println,main ,math.min etc.
         //user defined function are given below..
         //**User Defined Functions.**
-        //1. Without Parameters and Without Return Type.
+        //1. Without Parameters and Without Return Type.(DEFAULT).
         // 2. Without Parameters but With Return Type
         // 3. With Parameters and Without Return Type
         // 4. With Parameters and With Return Type
